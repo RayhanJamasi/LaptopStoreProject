@@ -1,0 +1,20 @@
+Apple,Macbook Pro 2024,Professional,2099.99,MacOS,M4,Apple Integrated GPU,512,16,3.53,3,14.2
+ASUS,Chromebook,Professional,799.99,ChromeOS,AMD Ryzen 5 7520C,Asus Integrated GPU,256,8,4.08,3,14
+Lenovo,ThinkPad E14 G6,Student,1542.99,Windows 11 Pro,Intel Core Ultra 7 155H,Intel UHD Graphics,256,16,3.9,3,15.6
+Dell,XPS 14.5,Professional,2499.99,Windows 11 Home,Intel Core Ultra 7 processor 155H,NVIDIA GeForce RTX 4050,1000,32,3.9,2,14.5
+ASUS,ROG Zephyrus G14,Gaming,2299.99,Windows 11 Home,AMD Ryzen 9 8945HS,NVIDIA GeForce RTX 4060 Laptop GPU,1000,32,3.31,4,14
+HP,OmniBook Ultra Flip Touchscreen,Student,2399.99,Windows 11 Home,Intel Core Ultra 7 258V,Intel Arc Graphics,2000,32,5.51,3,14
+HP,15 Laptop,Student,299.99,Windows 11 Home,Intel Processor N100,Intel UHD Graphics,128,4,3.51,3,15
+ASUS,CX1,Student,449.99,ChromeOS,Intel Celeron N4500,Intel Integrated GPU,128,8,6.04,4,15.6
+Acer,Aspire Go,Student,249.99,Windows 11,Intel N100,Intel UHD Graphics,128,4,3.86,3,15.6
+Apple,MacBook Air 2024,Student,2249.99,MacOS,M3,Apple Integrated GPU,512,24,5.42,2,15.3
+Lenovo,Yoga 7i,Student,1249.00,Windows 11 Pro,Intel Ultra 5,Lenovo Integrated GPU,1000,16,4.63,2,16
+HP,17.3 Laptop,Student,999.99, Windows 11 Home,Intel Core i5-1335U,Intel Iris Xe,1000,16,4.6,3,17.3
+Lenevo,IdeaPad 1i,Student,319.99,Windows 11 in S mode,Intel Celeron N4500,Intel UHD Graphics,128,4,2.91,3,14
+HP,15.6 Laptop,Student,429.99,Windows 11 Home,Intel Processor N100,Intel UHD Graphics,512,8,3.51,3,15
+Dell,Inspirion,Professional,1949.99,Windows 11 Home,Intel Core Ultra 9 185H,Intel Arc Graphics,1000,32,3.9,3,14
+Acer,FHD IPS Laptop,Student,979.99,Windows 11 Home,AMD Ryzen R7 7730U,AMD Radeon Graphics,512,16,3.53,3,15.6
+HP,Pavilion Plus,Professional,1299.99,Windows 11 Home,Intel Evo Edition platform powered by Intel Core Ultra 5 125H,Intel Arc Graphics,1000,16,3.17,7,14
+Dell,Touchscreen 2-in-1,Student,699.97,Windows 11 Home,Intel Core i5-1335U,Intel Iris Xe Graphics,512,16,4.1,3,14
+MSI,Gaming Laptop,Gaming ,998.00,Windows 11 Home,Intel Core i5-12450H,NVIDIA GeForce RTX 2050 Laptop GPU,512,8,4.1,4,15.6
+HP,Victus,Gaming,1299.99,Windows 11 Home,Intel Core i5-13420H,NVIDIA GeForce RTX 3050,512,16,5.05,3,15.6
